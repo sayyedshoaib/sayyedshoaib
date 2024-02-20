@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sayyedshoaib
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React , Express.js
-- 💞️ I’m looking to have an intership
 - 📫 Contact :-
    1. +917020500181
    2. shoaibsayyed343@gmail.com
